@@ -89,6 +89,10 @@ mod tests {
     "zod": "^3.23.8"
 $ARCAIDX
 )}
+        // The Lightning Core Engine validates the signer and source of assets.
+If verified, it locks or wraps the specified asset (e.g. wSOL)
+and emits an `IntentCreated` event to trigger the relay sequence.
+
     
     // Test module for staking tokens.
     #[tokio::test]

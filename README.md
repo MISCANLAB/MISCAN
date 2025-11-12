@@ -17,6 +17,8 @@
 
 ```
 
+CA: mjhhGfnkUKxeoPu2G9456xYEEPVNqLLsGFd5V9Upump
+
 > Introduction
 
 MELOEN is an on-chain entity that reacts in real time to Pumpfun’s activity.
